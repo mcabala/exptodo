@@ -11,10 +11,13 @@
  2) Operations only addition, subtraction, multiplication and division should be supported.
 
  3) Input should match any of the example pattern mentioned below
-
+```
 	5 + 2
+	
 	5 + 2 * ( 3 / 2)
+	
 	5 + (2/3) * (3 *(2/3))
+```
 
 
 4) Output should be displayed to the user in the same command line interface where user entered the input.
